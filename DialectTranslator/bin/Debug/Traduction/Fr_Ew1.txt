@@ -1,0 +1,7 @@
+Francais,Ewondo
+bonjour,mbembe kidi
+bonsoir,mbembe amos
+bonne nuit,mbembe alu
+bon,mbembe
+bonne,mbembe
+nuit,alu

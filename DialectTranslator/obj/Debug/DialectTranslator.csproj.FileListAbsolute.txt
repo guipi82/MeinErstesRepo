@@ -1,0 +1,10 @@
+C:\Users\sidie\source\repos\DialectTranslator\DialectTranslator\bin\Debug\DialectTranslator.exe.config
+C:\Users\sidie\source\repos\DialectTranslator\DialectTranslator\bin\Debug\DialectTranslator.exe
+C:\Users\sidie\source\repos\DialectTranslator\DialectTranslator\bin\Debug\DialectTranslator.pdb
+C:\Users\sidie\source\repos\DialectTranslator\DialectTranslator\obj\Debug\DialectTranslator.Form1.resources
+C:\Users\sidie\source\repos\DialectTranslator\DialectTranslator\obj\Debug\DialectTranslator.Properties.Resources.resources
+C:\Users\sidie\source\repos\DialectTranslator\DialectTranslator\obj\Debug\DialectTranslator.csproj.GenerateResource.cache
+C:\Users\sidie\source\repos\DialectTranslator\DialectTranslator\obj\Debug\DialectTranslator.csproj.CoreCompileInputs.cache
+C:\Users\sidie\source\repos\DialectTranslator\DialectTranslator\obj\Debug\DialectTranslator.exe
+C:\Users\sidie\source\repos\DialectTranslator\DialectTranslator\obj\Debug\DialectTranslator.pdb
+C:\Users\sidie\source\repos\DialectTranslator\DialectTranslator\obj\Debug\DialectTranslator.csproj.AssemblyReference.cache

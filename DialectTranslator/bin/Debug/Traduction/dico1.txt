@@ -1,0 +1,30 @@
+French,Dialect
+bonjour,Oudia
+bonsoir,Ouzoua
+comment,Me Ndi2i
+je,wei meu
+monte,co2ho
+dans,tok
+voiture,matoua
+la,
+déjà,
+ca,Ngi
+j'ai,wei
+je suis,wei
+monté,co2ho
+la tête,tchouhu
+les mains,mbou
+les pieds,hou
+un,ntcheu
+deux,pa
+trois,tie
+quatre,krwô
+cinq,ta
+six,touhou
+sept,somba
+huit,waha
+neuf,weue
+dix,hep 
+
+
+ 
