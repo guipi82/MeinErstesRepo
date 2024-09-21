@@ -1,0 +1,14 @@
+C:\Users\sidie\source\repos\TestCICDJenkins\TestCICDJenkins\bin\Debug\net8.0\TestCICDJenkins.exe
+C:\Users\sidie\source\repos\TestCICDJenkins\TestCICDJenkins\bin\Debug\net8.0\TestCICDJenkins.deps.json
+C:\Users\sidie\source\repos\TestCICDJenkins\TestCICDJenkins\bin\Debug\net8.0\TestCICDJenkins.runtimeconfig.json
+C:\Users\sidie\source\repos\TestCICDJenkins\TestCICDJenkins\bin\Debug\net8.0\TestCICDJenkins.dll
+C:\Users\sidie\source\repos\TestCICDJenkins\TestCICDJenkins\bin\Debug\net8.0\TestCICDJenkins.pdb
+C:\Users\sidie\source\repos\TestCICDJenkins\TestCICDJenkins\obj\Debug\net8.0\TestCICDJenkins.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sidie\source\repos\TestCICDJenkins\TestCICDJenkins\obj\Debug\net8.0\TestCICDJenkins.AssemblyInfoInputs.cache
+C:\Users\sidie\source\repos\TestCICDJenkins\TestCICDJenkins\obj\Debug\net8.0\TestCICDJenkins.AssemblyInfo.cs
+C:\Users\sidie\source\repos\TestCICDJenkins\TestCICDJenkins\obj\Debug\net8.0\TestCICDJenkins.csproj.CoreCompileInputs.cache
+C:\Users\sidie\source\repos\TestCICDJenkins\TestCICDJenkins\obj\Debug\net8.0\TestCICDJenkins.dll
+C:\Users\sidie\source\repos\TestCICDJenkins\TestCICDJenkins\obj\Debug\net8.0\refint\TestCICDJenkins.dll
+C:\Users\sidie\source\repos\TestCICDJenkins\TestCICDJenkins\obj\Debug\net8.0\TestCICDJenkins.pdb
+C:\Users\sidie\source\repos\TestCICDJenkins\TestCICDJenkins\obj\Debug\net8.0\TestCICDJenkins.genruntimeconfig.cache
+C:\Users\sidie\source\repos\TestCICDJenkins\TestCICDJenkins\obj\Debug\net8.0\ref\TestCICDJenkins.dll
