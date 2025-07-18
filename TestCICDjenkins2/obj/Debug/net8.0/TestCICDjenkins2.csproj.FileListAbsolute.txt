@@ -7,6 +7,7 @@ C:\Users\sidie\source\repos\TestCICDJenkins2\TestCICDjenkins2\obj\Debug\net8.0\T
 C:\Users\sidie\source\repos\TestCICDJenkins2\TestCICDjenkins2\obj\Debug\net8.0\TestCICDjenkins2.AssemblyInfoInputs.cache
 C:\Users\sidie\source\repos\TestCICDJenkins2\TestCICDjenkins2\obj\Debug\net8.0\TestCICDjenkins2.AssemblyInfo.cs
 C:\Users\sidie\source\repos\TestCICDJenkins2\TestCICDjenkins2\obj\Debug\net8.0\TestCICDjenkins2.csproj.CoreCompileInputs.cache
+C:\Users\sidie\source\repos\TestCICDJenkins2\TestCICDjenkins2\obj\Debug\net8.0\TestCICDjenkins2.sourcelink.json
 C:\Users\sidie\source\repos\TestCICDJenkins2\TestCICDjenkins2\obj\Debug\net8.0\TestCICDjenkins2.dll
 C:\Users\sidie\source\repos\TestCICDJenkins2\TestCICDjenkins2\obj\Debug\net8.0\refint\TestCICDjenkins2.dll
 C:\Users\sidie\source\repos\TestCICDJenkins2\TestCICDjenkins2\obj\Debug\net8.0\TestCICDjenkins2.pdb

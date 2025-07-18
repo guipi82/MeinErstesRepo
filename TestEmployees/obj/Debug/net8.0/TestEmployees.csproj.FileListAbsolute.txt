@@ -3,6 +3,8 @@ C:\Users\sidie\source\repos\TestCICDJenkins2\TestEmployees\bin\Debug\net8.0\test
 C:\Users\sidie\source\repos\TestCICDJenkins2\TestEmployees\bin\Debug\net8.0\TestCICDjenkins2.deps.json
 C:\Users\sidie\source\repos\TestCICDJenkins2\TestEmployees\bin\Debug\net8.0\TestCICDjenkins2.runtimeconfig.json
 C:\Users\sidie\source\repos\TestCICDJenkins2\TestEmployees\bin\Debug\net8.0\TestCICDjenkins2.exe
+C:\Users\sidie\source\repos\TestCICDJenkins2\TestEmployees\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.Extension.NUnit.Xml.TestLogger.dll
+C:\Users\sidie\source\repos\TestCICDJenkins2\TestEmployees\bin\Debug\net8.0\Spekt.TestLogger.dll
 C:\Users\sidie\source\repos\TestCICDJenkins2\TestEmployees\bin\Debug\net8.0\testhost.exe
 C:\Users\sidie\source\repos\TestCICDJenkins2\TestEmployees\bin\Debug\net8.0\NUnit3.TestAdapter.dll
 C:\Users\sidie\source\repos\TestCICDJenkins2\TestEmployees\bin\Debug\net8.0\NUnit3.TestAdapter.pdb
@@ -97,6 +99,7 @@ C:\Users\sidie\source\repos\TestCICDJenkins2\TestEmployees\obj\Debug\net8.0\Test
 C:\Users\sidie\source\repos\TestCICDJenkins2\TestEmployees\obj\Debug\net8.0\TestEmployees.AssemblyInfoInputs.cache
 C:\Users\sidie\source\repos\TestCICDJenkins2\TestEmployees\obj\Debug\net8.0\TestEmployees.AssemblyInfo.cs
 C:\Users\sidie\source\repos\TestCICDJenkins2\TestEmployees\obj\Debug\net8.0\TestEmployees.csproj.CoreCompileInputs.cache
+C:\Users\sidie\source\repos\TestCICDJenkins2\TestEmployees\obj\Debug\net8.0\TestEmployees.sourcelink.json
 C:\Users\sidie\source\repos\TestCICDJenkins2\TestEmployees\obj\Debug\net8.0\TestEmployees.csproj.CopyComplete
 C:\Users\sidie\source\repos\TestCICDJenkins2\TestEmployees\obj\Debug\net8.0\TestEmployees.dll
 C:\Users\sidie\source\repos\TestCICDJenkins2\TestEmployees\obj\Debug\net8.0\refint\TestEmployees.dll

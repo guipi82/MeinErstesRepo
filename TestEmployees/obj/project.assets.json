@@ -369,6 +369,12 @@
           "build/netcoreapp2.1/NUnit3TestAdapter.props": {}
         }
       },
+      "NunitXml.TestLogger/6.1.0": {
+        "type": "package",
+        "build": {
+          "build/netstandard2.0/NUnitXml.TestLogger.props": {}
+        }
+      },
       "System.Reflection.Metadata/1.6.0": {
         "type": "package",
         "compile": {
@@ -964,6 +970,23 @@
         "nunit3testadapter.nuspec"
       ]
     },
+    "NunitXml.TestLogger/6.1.0": {
+      "sha512": "oDkFDRUigpOXAVzZDLqLDdxC9N/MYLR3R59xoZH0Xhr6pRSflZRrNEctK6sbUQErJGLjtEf+mnOVNhT7exc6MQ==",
+      "type": "package",
+      "path": "nunitxml.testlogger/6.1.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "build/_common/Microsoft.VisualStudio.TestPlatform.Extension.NUnit.Xml.TestLogger.dll",
+        "build/_common/Spekt.TestLogger.dll",
+        "build/netstandard2.0/NUnitXml.TestLogger.props",
+        "docs/CHANGELOG.md",
+        "docs/README.md",
+        "nunitxml.testlogger.6.1.0.nupkg.sha512",
+        "nunitxml.testlogger.nuspec",
+        "packageIcon.png"
+      ]
+    },
     "System.Reflection.Metadata/1.6.0": {
       "sha512": "COC1aiAJjCoA5GBF+QKL2uLqEBew4JsCkQmoHKbN3TlOZKa2fKLz5CpiRQKDz0RsAOEGsVKqOD5bomsXq/4STQ==",
       "type": "package",
@@ -997,12 +1020,13 @@
       "NUnit >= 3.13.3",
       "NUnit.Analyzers >= 3.6.1",
       "NUnit3TestAdapter >= 4.2.1",
+      "NunitXml.TestLogger >= 6.1.0",
       "TestCICDjenkins2 >= 1.0.0",
       "coverlet.collector >= 6.0.0"
     ]
   },
   "packageFolders": {
-    "C:\\Users\\sidie\\.nuget\\packages\\": {},
+    "C:\\WINDOWS\\system32\\config\\systemprofile\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
     "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
@@ -1013,7 +1037,7 @@
       "projectUniqueName": "C:\\Users\\sidie\\source\\repos\\TestCICDJenkins2\\TestEmployees\\TestEmployees.csproj",
       "projectName": "TestEmployees",
       "projectPath": "C:\\Users\\sidie\\source\\repos\\TestCICDJenkins2\\TestEmployees\\TestEmployees.csproj",
-      "packagesPath": "C:\\Users\\sidie\\.nuget\\packages\\",
+      "packagesPath": "C:\\WINDOWS\\system32\\config\\systemprofile\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\sidie\\source\\repos\\TestCICDJenkins2\\TestEmployees\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
@@ -1022,7 +1046,7 @@
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\sidie\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\WINDOWS\\system32\\config\\systemprofile\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
@@ -1069,6 +1093,10 @@
           "NUnit3TestAdapter": {
             "target": "Package",
             "version": "[4.2.1, )"
+          },
+          "NunitXml.TestLogger": {
+            "target": "Package",
+            "version": "[6.1.0, )"
           },
           "coverlet.collector": {
             "target": "Package",

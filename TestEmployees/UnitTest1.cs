@@ -17,7 +17,6 @@ namespace TestEmployees
                                                            new Person("Tchanang Tchayep", "Carine"),
                                                            new Person("Gohres", "Tim Emanuel")
                                                          };
-
         }
 
         [Test]

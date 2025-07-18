@@ -1,0 +1,11 @@
+<test-run id="2" duration="0.034849" testcasecount="2" total="2" passed="2" failed="0" inconclusive="0" skipped="0" result="Passed" start-time="2025-07-18T07:22:38Z" end-time="2025-07-18T07:22:43Z">
+  <test-suite type="Assembly" name="TestEmployees.dll" fullname="C:\Users\sidie\source\repos\TestCICDJenkins2\TestEmployees\bin\Debug\net8.0\TestEmployees.dll" total="2" passed="2" failed="0" inconclusive="0" skipped="0" result="Passed" start-time="2025-07-18T07:22:42Z" end-time="2025-07-18T07:22:42Z" duration="0.034849">
+    <test-suite type="TestSuite" name="TestEmployees" fullname="TestEmployees" total="2" passed="2" failed="0" inconclusive="0" skipped="0" result="Passed" start-time="2025-07-18T07:22:42Z" end-time="2025-07-18T07:22:42Z" duration="0.034849">
+      <test-suite type="TestFixture" name="Tests" fullname="TestEmployees.Tests" classname="TestEmployees.Tests" total="2" passed="2" failed="0" inconclusive="0" skipped="0" result="Passed" start-time="2025-07-18T07:22:42Z" end-time="2025-07-18T07:22:42Z" duration="0.034849">
+        <test-case name="EmployeeIsInList_True" fullname="TestEmployees.Tests.EmployeeIsInList_True" methodname="EmployeeIsInList_True" classname="Tests" result="Passed" start-time="2025-07-18T07:22:42Z" end-time="2025-07-18T07:22:42Z" duration="0.033442" asserts="0" seed="1336466458" />
+        <test-case name="EmployeeIsNotInList_False" fullname="TestEmployees.Tests.EmployeeIsNotInList_False" methodname="EmployeeIsNotInList_False" classname="Tests" result="Passed" start-time="2025-07-18T07:22:42Z" end-time="2025-07-18T07:22:42Z" duration="0.001407" asserts="0" seed="1877983919" />
+      </test-suite>
+    </test-suite>
+    <errors />
+  </test-suite>
+</test-run>
