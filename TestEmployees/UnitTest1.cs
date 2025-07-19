@@ -36,7 +36,7 @@ namespace TestEmployees
 
             bool Isemployee = employee1.AreYouEmployee2(EmployeeList);
 
-            Assert.That(Isemployee, Is.EqualTo(true));
+            Assert.That(Isemployee, Is.EqualTo(false));
         }
     }
 }
