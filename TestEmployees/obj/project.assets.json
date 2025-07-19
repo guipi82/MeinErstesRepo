@@ -1026,7 +1026,7 @@
     ]
   },
   "packageFolders": {
-    "C:\\WINDOWS\\system32\\config\\systemprofile\\.nuget\\packages\\": {},
+    "C:\\Users\\sidie\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
     "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
@@ -1037,7 +1037,7 @@
       "projectUniqueName": "C:\\Users\\sidie\\source\\repos\\TestCICDJenkins2\\TestEmployees\\TestEmployees.csproj",
       "projectName": "TestEmployees",
       "projectPath": "C:\\Users\\sidie\\source\\repos\\TestCICDJenkins2\\TestEmployees\\TestEmployees.csproj",
-      "packagesPath": "C:\\WINDOWS\\system32\\config\\systemprofile\\.nuget\\packages\\",
+      "packagesPath": "C:\\Users\\sidie\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\sidie\\source\\repos\\TestCICDJenkins2\\TestEmployees\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
@@ -1046,7 +1046,7 @@
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\WINDOWS\\system32\\config\\systemprofile\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\sidie\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
